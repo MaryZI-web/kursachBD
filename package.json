@@ -1,5 +1,19 @@
 {
   "dependencies": {
     "express": "^4.19.2"
+  },
+  "name": "kursachbd",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
   }
 }
